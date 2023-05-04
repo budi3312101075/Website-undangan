@@ -17,7 +17,7 @@ const Home = () => {
           <small className="text-xl text-white py-3 tracking-[9px] ">
             17 . 07 . 2023
           </small>
-          <Link to={"./Home"} className="btn btn-wide tracking-[3px]">
+          <Link to={"./About"} className="btn btn-wide tracking-[3px]">
             BUKA UNDANGAN
           </Link>
           {/* </div> */}
