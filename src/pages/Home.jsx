@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
-    <div className="w-screen h-screen bg-[url('./1.JPG')] bg-cover overflow-hidden">
+    <div className="w-screen h-screen bg-[url('./redhelpdark.jpg')] bg-cover overflow-hidden">
       {/* hero section */}
       {/* <div className="flex flex-col justify-between"> */}
       <div className=" w-full h-full flex flex-col justify-between ">
