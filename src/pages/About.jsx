@@ -37,7 +37,7 @@ const About = () => {
 
   return (
     <>
-      <div className="w-full flex items-center justify-center gap-80 flex-col min-h-screen bg-[url('./redhelpdark.jpg')] bg-cover ">
+      <div className="w-full flex items-center justify-center gap-80 flex-col min-h-screen bg-[url('./2.JPG')] bg-cover ">
         <h1 className="text-center tracking-[9px] font-extrabold text-black  ">
           Happy wedding
         </h1>
