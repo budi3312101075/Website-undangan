@@ -36,7 +36,7 @@ const About = () => {
 
   return (
     <>
-      <div className="w-full flex items-center justify-center gap-80 flex-col min-h-screen bg-[url('./2.JPG')] bg-cover ">
+      <div className="w-full flex items-center justify-center gap-80 flex-col min-h-screen bg-[url('https://static.republika.co.id/uploads/images/inpicture_slide/_230206161510-231.png')] bg-cover ">
         <h1 className="text-center tracking-[9px] font-extrabold text-black  ">
           Happy wedding
         </h1>
@@ -76,21 +76,7 @@ const About = () => {
         </div>
       </div>
       <div className="h-screen">
-        <div className="card card-compact w-96 bg-base-100 shadow-xl">
-          <figure>
-            {/* <img
-              src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            /> */}
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Shoes!</h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div className="card-actions justify-end">
-              <button className="btn btn-primary">Buy Now</button>
-            </div>
-          </div>
-        </div>
+        <h1>hellow</h1>
       </div>
     </>
   );
