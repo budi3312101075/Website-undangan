@@ -75,9 +75,23 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div className="h-screen">
-        <h1>hellow</h1>
+      <div className="h-80 flex flex-col items-center justify-evenly  bg-[url('https://img.freepik.com/free-photo/stone-texture_1194-5537.jpg?w=360&t=st=1683815561~exp=1683816161~hmac=9737460fd83be0cceaf2aa1a25f66cc73c05faaea6b9977f69f766c29963c123')] bg-cover">
+        <img
+          src="https://dynamic.brandcrowd.com/preview/logodraft/b406ebbd-1643-430a-b5ff-2b7547cd1b9c/image/large.png"
+          alt="inisial"
+          className="w-32 h-32 "
+        />
+        <small className="text-base">
+          تَزَوَّجَ العَبْدُ فَقَدْ كَمَّلَ نَصْفَ الدِّيْنِ ، فَلْيَتَّقِ اللهَ
+          فِي النِّصْفِ البَاقِي
+        </small>
+        <small className="text-justify pr-3 pl-3">
+          “Jika seseorang menikah, maka ia telah menyempurnakan separuh
+          agamanya. Karenanya, bertakwalah pada Allah pada separuh yang
+          lainnya.” (HR. Al Baihaqi)
+        </small>
       </div>
+      <div className="h-screen bg-black"></div>
     </>
   );
 };
